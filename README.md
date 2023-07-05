@@ -1,5 +1,5 @@
 # Vector-library-for-Arduino
-The Vector library provides a dynamic array implementation for Arduino that allows you to work with a collection of **elements of any type** (meaning you can store your custom defined objects in the vector). It is a flexible alternative to the standard fixed-size arrays in Arduino. 
+This ***up to date** Vector library provides a dynamic array implementation for Arduino that allows you to work with a collection of **elements of any type** (meaning you can store your custom defined objects in the vector). It is a flexible alternative to the standard fixed-size arrays in Arduino. 
 
 ## Features
 
